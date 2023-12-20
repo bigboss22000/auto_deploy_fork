@@ -8,7 +8,7 @@
 connection: "inhouse_bi"
 
 
-include: "/views/**/*.view.lkml"
+include : "/views/**/*.view.lkml"
 include :"/dashboard/auto_deploy.dashboard.lookml"
 
 
